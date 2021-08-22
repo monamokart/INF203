@@ -1,0 +1,38 @@
+#dv1 {
+    padding : 20px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+img  {
+    float: left;
+    margin-right: 11px;
+}
+
+#dv2 {
+    border-style: unset;
+    border-width: unset;
+    padding: unset;
+}
+
+#dv3 {
+    background-color: silver;
+    margin: 10px;
+}
+
+.youpi {
+    position: fixed;
+    top : 125px;
+    left : 125px;
+    width: 410px;
+    height: 410px;
+
+}
+
+.youpi:active{
+    visibility: hidden;
+}
+
+.youpi:hover{
+    color: crimson;
+}
